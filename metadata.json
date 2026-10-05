@@ -1,0 +1,6 @@
+{
+  "name": "Mavenir SpamShield Interactive Simulator",
+  "description": "Enterprise Telecom Signaling & Anti-Spam Security Simulator replicating Mavenir SpamShield Management Station & Analytics for operator training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
